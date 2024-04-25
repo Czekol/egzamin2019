@@ -1,0 +1,65 @@
+.baner {
+    height: 50px;
+    background-color: #d4958d;
+}
+
+.lewy {
+    width: 40%;
+    height: 450px;
+    background-color: #aa593b;
+}
+
+.srodkowy {
+    width: 30%;
+    height: 450px;
+    background-color: #E5998B;
+}
+
+.prawy {
+    width: 30%;
+    height: 450px;
+    background-color: #AA593B;
+}
+
+.stopka {
+    height: 50px;
+    background-color: #D47958;
+    text-align: right;
+}
+
+ul {
+    margin-left: 100px;
+    list-style-type: circle;
+}
+
+img { 
+    margin-top: 100px;
+    float: left;
+}
+
+form { 
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+h4 {
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container { 
+    display: flex;
+}
+
+p {
+    margin: 0;
+}
